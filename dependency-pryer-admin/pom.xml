@@ -7,9 +7,11 @@
         <artifactId>dependency-pryer</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <modelVersion>4.0.0</modelVersion>
 
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.acme</groupId>
     <artifactId>dependency-pryer-admin</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>jar</packaging>
 
 </project>
